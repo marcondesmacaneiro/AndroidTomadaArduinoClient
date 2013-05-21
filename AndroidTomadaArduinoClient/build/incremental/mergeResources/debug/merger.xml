@@ -64,11 +64,17 @@
             <file
                 path="/home/marcondes/TDC 2013/AndroidTomadaArduinoClient/AndroidTomadaArduinoClient/src/main/res/values/strings.xml"
                 qualifiers="" >
-                <string name="action_settings" >Settings
+                <string name="action_settings" >Opções
                 </string>
-                <string name="app_name" >AndroidTomadaArduinoClient
+                <string name="Desligarlbl" >Desligar
+                </string>
+                <string name="app_name" >Tomada Arduino Client
                 </string>
                 <string name="hello_world" >Hello world!
+                </string>
+                <string name="menu_settings" >Settings
+                </string>
+                <string name="Ligarlbl" >Ligar
                 </string>
             </file>
             <file
