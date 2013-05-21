@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidTomadaArduinoClient.iml" filepath="$PROJECT_DIR$/AndroidTomadaArduinoClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidTomadaArduinoClient-AndroidTomadaArduinoClient.iml" filepath="$PROJECT_DIR$/AndroidTomadaArduinoClient-AndroidTomadaArduinoClient.iml" />
+    </modules>
+  </component>
+</project>
+

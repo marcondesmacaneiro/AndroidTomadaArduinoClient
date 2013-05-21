@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/home/marcondes/TDC 2013/AndroidTomadaArduinoClient/AndroidTomadaArduinoClient/src/main/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/home/marcondes/TDC 2013/AndroidTomadaArduinoClient/AndroidTomadaArduinoClient/src/debug/assets" />
+    </dataSet>
+
+</merger>
